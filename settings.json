@@ -1,0 +1,13 @@
+{
+    "prefix": "?",
+    "token": "Put your discord bot's token here",
+    "playlists": [
+        "VIP",
+        "WAP",
+        "CPP",
+        "EXILED",
+        "SOURCE",
+        "MELLOW"
+    ],
+    "defaultPlaylist": "VIP"
+}
