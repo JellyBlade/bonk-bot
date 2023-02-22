@@ -1,4 +1,5 @@
 # bonk-bot
+
 The only discord bot that plays VIP Aersia Playlists (I think, anyways).
 
 It was an interesting experiment in making a discord bot, and a bit unique in my opinion.
@@ -9,7 +10,7 @@ The bot parses these lists when asked by a user, and randomly shuffle-plays the 
 
 As far as I know, this is the only publicly-available discord bot in the world to do this, which is pretty neat.
 
-However, sometime in the near-future this bot in its current state will be obsolete, as the Aersia playlists are moving away from the .xspf rosters. I will likely update this bot when that happens, but it works for now.
+**However, currently this bot is a bit obsolete** as the Aersia playlists have moved away from the .xspf rosters. Additionally, Bonk Bot uses the old style of bot commands (?help vs. /help, for example). In the future, I'd like to switch to using the new json rosters and discordjs' slash commands.
 
 [Video Example](https://www.youtube.com/watch?v=M8BLbkeZmuM)
 ![The discord bot in a channel](https://i.imgur.com/QTyxfgc.png)
